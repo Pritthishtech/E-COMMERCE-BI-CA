@@ -92,7 +92,45 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-> Screenshots will be added soon.
+### 🏠 Home Page
+
+![Home Page](Images/home.png)
+
+---
+
+### 👥 Customer Segmentation
+
+![Customer Segmentation](Images/customer.png)
+
+---
+
+### 🛒 Product Revenue Analysis
+
+![Product Revenue](Images/product-revenue.png)
+
+---
+
+### 📦 Top Products
+
+![Top Products](Images/product.png)
+
+---
+
+### 🌍 Sales by Country
+
+![Sales by Country](Images/sales-by-country.png)
+
+---
+
+### 👤 Top 10 Customers
+
+![Top 10 Customers](Images/top-10-customer.png)
+
+---
+
+### 🌎 Top 10 Countries by Sales
+
+![Top 10 Countries by Sales](Images/top-10-countries-by-sales.png)
 
 ---
 
